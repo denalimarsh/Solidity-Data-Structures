@@ -1,0 +1,5 @@
+* linguist-vendored
+*.js linguist-language=JavaScript
+*.js linguist-vendored=false
+*.sol linguist-language=Solidity
+*.sol linguist-vendored=false
