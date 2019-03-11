@@ -10,22 +10,23 @@ This project is in active development.
 Data structures must pass a comprehensive JavaScript test suite to be considered 'completed'.
 
 Completed:
-- StackMapping: Stack backed by a mapping.
-- QueueMapping: Queue backed by a mapping.
+- StackMapping.sol: Stack backed by a mapping.
+- QueueMapping.sol: Queue backed by a mapping.
 
 In development:
-- StackArray: Stack backed by a dynamically sized array.
-- QueueArray: Queue backed by a dynamically sized array.
-- HashMap: Mapping structure supporting key iteration.
-- LinkedList: Native implementation.
-- DoublyLinkedList: Doubly Linked List backed by a dynamically sized array.
-- Circular Linked List: Native implementation.
+- StackArray.sol: Stack backed by a dynamically sized array.
+- QueueArray.sol: Queue backed by a dynamically sized array.
+- HashMap.sol: Mapping structure supporting key iteration.
+- LinkedList.sol: Native implementation.
+- DoublyLinkedList.sol: Doubly Linked List backed by a dynamically sized array.
+- CircularLinkedList.sol: Native implementation.
 
 Future work:
-- Binary Search Tree
-- Red-Black Tree
-- Minimum Heap, Maximum Heap
-- GraphAdjList: Graph backed by an adjacency list.
+- BinarySearchTree.sol
+- RedBlackTree.sol
+- Minimum Heap.sol
+- Maximum Heap.sol
+- GraphAdjList.sol: Graph backed by an adjacency list.
 
 ## Considerations
 
