@@ -2,7 +2,7 @@
 
 A collection of common data structures implemented in Solidity, organized and tested using Truffle Suite.
 
-The motivation of this project is to provide secure, optimized, extensible data structures for use in smart contract systems. Where possible, the data structures have been implemented with different underlying storage mechanisms (dynamically sized array, mapping, etc.) to showcase different implementation strategies.
+The motivation of this project is to provide secure, optimized, extensible data structures for use in smart contract systems. Where possible, the data structures have been implemented with different underlying storage mechanisms (dynamically sized array, mapping, etc.) to showcase various implementation strategies.
 
 ## Development Status
 
