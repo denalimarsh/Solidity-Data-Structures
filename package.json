@@ -12,6 +12,7 @@
     "babel-preset-stage-3": "^6.17.0",
     "babel-register": "^6.23.0",
     "bignumber.js": "^5.0.0",
+    "lodash": "^4.17.11",
     "truffle-assertions": "^0.3.1",
     "web3": "^1.0.0-beta.33",
     "web3-utils": "^1.0.0-beta.36"
