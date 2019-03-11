@@ -6,8 +6,7 @@ The motivation of this project is to provide secure, optimized, extensible data 
 
 ## Development Status
 
-This project is in active development.
-Data structures must pass a comprehensive JavaScript test suite to be considered 'completed'.
+This project is in active development. Data structures must pass a comprehensive test suite to be considered 'completed'.
 
 Completed:
 - StackMapping.sol: Stack backed by a mapping.
