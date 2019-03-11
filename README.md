@@ -1,10 +1,13 @@
 # Solidity Data Structures
 
-A collection of common data structures implemented in Solidity, organized and tested using Truffle Suite. The motivation of this project is to provide secure, optimized, extensible data structures for use in smart contract systems. Where possible, the data structures have been implemented with different underlying storage mechanisms (dynamically sized array, mapping, etc.) to showcase different implementation strategies.
+A collection of common data structures implemented in Solidity, organized and tested using Truffle Suite.
+
+The motivation of this project is to provide secure, optimized, extensible data structures for use in smart contract systems. Where possible, the data structures have been implemented with different underlying storage mechanisms (dynamically sized array, mapping, etc.) to showcase different implementation strategies.
 
 ## Development Status
 
-This project is in active development. Data structures must pass a comprehensive JavaScript test suite to be considered 'completed'.
+This project is in active development.
+Data structures must pass a comprehensive JavaScript test suite to be considered 'completed'.
 
 Completed:
 - StackMapping: Stack backed by a mapping.
