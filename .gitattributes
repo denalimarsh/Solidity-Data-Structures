@@ -3,3 +3,6 @@
 *.js linguist-vendored=false
 *.sol linguist-language=Solidity
 *.sol linguist-vendored=false
+
+truffle.js* linguist-vendored
+test/* linguist-vendored
