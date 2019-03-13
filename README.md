@@ -10,10 +10,10 @@ This project is in active development. Data structures must pass a comprehensive
 
 Completed:
 - StackMapping.sol: Stack backed by a mapping.
+- StackArray.sol: Stack backed by a dynamically sized array.
 - QueueMapping.sol: Queue backed by a mapping.
 
 In development:
-- StackArray.sol: Stack backed by a dynamically sized array.
 - QueueArray.sol: Queue backed by a dynamically sized array.
 - HashMap.sol: Mapping structure supporting key iteration.
 - LinkedList.sol: Native implementation.
